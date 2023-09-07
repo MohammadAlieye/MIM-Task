@@ -32,7 +32,7 @@ Push Notifications: Be in the know with Firebase Cloud Messaging (FCM) enabled f
 Scheduled Notifications: Schedule notifications for specific times using a date and time picker.
 Custom Content: Enjoy customized content in notifications for a personalized experience.
 # Plus Points
-We've incorporated streams to enhance the user experience. You'll find them seamlessly integrated throughout the app, providing real-time updates and a smooth, interactive feel.
+I've made a third tab to show you the working of streams. You'll find them seamlessly integrated throughout the app, providing real-time updates and a smooth, interactive feel.
 
 # Testing Disclaimer
 Regrettably, we couldn't test the Apple Sign-In feature due to a lack of access to a Mac. However, we've included the feature for you to explore.
