@@ -1,0 +1,75 @@
+name: task
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Firebase
+  firebase_auth: ^4.6.0
+  firebase_core: ^2.12.0
+  firebase_storage: ^11.2.0
+  cloud_firestore: ^4.7.0
+  firebase_messaging: ^14.6.7
+  google_sign_in: ^6.1.5
+  sign_in_with_apple: ^5.0.0
+
+  cupertino_icons: ^1.0.2
+  flutter_local_notifications: ^14.0.0+2
+  get: ^4.6.5
+  lottie: ^2.3.2
+  flutter_svg: ^2.0.5
+  image_picker: ^0.8.7+5
+  http: ^0.13.6
+  cached_network_image: ^3.2.3
+  intl: ^0.18.1
+  # timezone: ^0.9.2
+  flutter_timezone: ^1.0.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/animations/
+    - assets/images/
+    - assets/svgs/
+
+  fonts:
+    - family: Gilroy
+      fonts:
+        - asset: assets/fonts/Gilroy-Regular.ttf
+        - asset: assets/fonts/Gilroy-Medium.ttf
+          weight: 600
+    - family: GilroyBold
+      fonts:
+        - asset: assets/fonts/Gilroy-Bold.ttf
+
+    - family: Gilroy-ExtraBold
+      fonts:
+        - asset: assets/fonts/Gilroy-ExtraBold.ttf
+          weight: 800
+
+    - family: Gilroy-SemiBold
+      fonts:
+        - asset: assets/fonts/Gilroy-SemiBold.ttf
+          weight: 700
+
+    - family: Gilroy-SemiBoldw500
+      fonts:
+        - asset: assets/fonts/Gilroy-SemiBold.ttf
+          weight: 500

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>19476199731-57c0f7amiuav6ff8h9i4dett0oa5b4lh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.19476199731-57c0f7amiuav6ff8h9i4dett0oa5b4lh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>19476199731-0hns2ec94nem7jsp3s7hv60jphdhadp7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDGVF2EJzyPNkdEsigx3H2ZMnScJ2OCb10</string>
+	<key>GCM_SENDER_ID</key>
+	<string>19476199731</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nordstone.task</string>
+	<key>PROJECT_ID</key>
+	<string>nordstone-task-e5b0e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nordstone-task-e5b0e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:19476199731:ios:29e5ad3c4f0b061152a646</string>
+</dict>
+</plist>
